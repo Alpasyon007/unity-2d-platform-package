@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace PlaylexStudios.Platform {
+namespace PlaylexStudios.Platform2D {
     public class Platform : MonoBehaviour {
         [SerializeField] float speed = 1f;
         [Range(-1, 1)] [SerializeField] int direction = 1;
