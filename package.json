@@ -1,16 +1,14 @@
 {
-    "name": "com.playlexstudios.2d.platform",
-    "version": "1.0.0",
-    "displayName": "2D Platforms",
-    "description": "2D Static and Moving platforms",
-    "unity": "2019.4",
-    "unityRelease": "4f7",
-    "dependencies": {},
-    "keywords": [],
-    "author": {
-      "name": "Alp Bora Orgun",
-      "email": "alp@orgun.ogr",
-      "url": "https://www.alpboraorgun.com"
-    }
+  "name": "com.playlexstudios.2dplatform",
+  "version": "1.0.0",
+  "displayName": "2D Platforms",
+  "description": "2D Static and Moving platforms",
+  "unity": "2019.4",
+  "unityRelease": "4f7",
+  "keywords": [],
+  "author": {
+    "name": "Alp Bora Orgun",
+    "email": "alp@orgun.ogr",
+    "url": "https://www.alpboraorgun.com"
   }
-  
+}
