@@ -10,5 +10,12 @@
     "name": "Alp Bora Orgun",
     "email": "alp@orgun.ogr",
     "url": "https://www.alpboraorgun.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Platform Sample Scene",
+      "description": "Sample Scene showcasing the functions of the Platforms",
+      "path": "Samples"
+    }
+  ]
 }
